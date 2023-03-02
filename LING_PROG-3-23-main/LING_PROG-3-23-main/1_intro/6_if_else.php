@@ -8,9 +8,9 @@
 	  echo 'Seja Bem - vindo <HR> ';
   }
   
-   $permição = 19;
+   $permissão = 19;
   
-  if($permição < 18) {
+  if($permissão < 18) {
 	  echo 'vocè não pode entrar aqui <hr> !';
   } else {
 	  echo 'Seja Bem - vindo <hr> ';
